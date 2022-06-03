@@ -1,0 +1,3 @@
+export {
+    makeInitiCall
+} from './hello'
